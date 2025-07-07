@@ -58,7 +58,8 @@ java BancoApp
 
 ### Capturas de pantalla:
 
-![Ejecución del sistema bancario](./screenshots/banco-app-ejecucion.png)
+![image](https://github.com/user-attachments/assets/8ad72f10-bd84-4d02-994b-7890860c6f04)
+
 _Demostración completa del sistema bancario con operaciones exitosas y manejo de errores_
 
 ## 2. Sistema de Gestión de Libros (LibroDAO)
@@ -98,7 +99,7 @@ java App
 
 ### Capturas de pantalla:
 
-![Sistema de gestión de libros]![alt text](image.png)
+![image](https://github.com/user-attachments/assets/adfc2aae-61d4-4f47-b5cb-a1de1941d83f)
 _Demostración completa del sistema CRUD de libros con todas las operaciones_
 
 ## 3. Proyecto Maven - Calculadora
@@ -135,7 +136,8 @@ java calculadora.Main
 
 ### Capturas de pantalla:
 
-![Calculadora Maven en funcionamiento]![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/b0d8d931-c203-4551-b0be-54c1862c630c)
+
 _Demostración de todas las operaciones matemáticas y manejo de excepciones_
 
 ## 4. Proyecto Gradle - RegistroApp con Log4j
@@ -185,7 +187,8 @@ cd "c:\Users\xrz\Java\RegistroApp1"
 
 ### Capturas de pantalla:
 
-![Sistema de logging con Log4j](![alt text](image-2.png))
+![image](https://github.com/user-attachments/assets/e3c13b48-8a78-48db-9ef8-bd4cc57e7542)
+
 _Demostración de múltiples niveles de logging y diferentes tipos de mensajes_
 
 ## Resumen de Tecnologías Utilizadas
